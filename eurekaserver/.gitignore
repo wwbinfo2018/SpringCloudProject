@@ -12,9 +12,7 @@
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
-*.iws
-*.ipr
+
 
 ### NetBeans ###
 /nbproject/private/
